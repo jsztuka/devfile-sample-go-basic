@@ -1,3 +1,3 @@
 # devfile-sample-go-basic
 
-Hello World
+Hello World!
